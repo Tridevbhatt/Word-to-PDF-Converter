@@ -1,0 +1,7 @@
+streamlit
+pandas
+os
+docx2pdf
+shutil
+convert
+tempfile
